@@ -1,12 +1,12 @@
-=============================
+
 Finance Tracker Application
-=============================
+
 
 This is a GUI-based finance tracker application built with C++ and the raylib library. The recommended way to set up the raylib dependency is by using the vcpkg package manager.
 
-=============================
+
 1. Libraries Required
-=============================
+
 
 This project requires the raylib library. The easiest way to install it is by using vcpkg.
 
@@ -14,9 +14,8 @@ This project requires the raylib library. The easiest way to install it is by us
 - Package Manager: vcpkg
 - vcpkg GitHub: https://github.com/microsoft/vcpkg
 
-=============================
 2. Compiling Instructions
-=============================
+
 
 -------------------------VISUAL STUDIO 2022------------------------------------------------------------
 To compile this project, you need to first install raylib using vcpkg and then configure your build system.
